@@ -27,5 +27,6 @@ pip install keras\
 pip install ipywidgets
 
 ### IMPORTANT LINKS
-Research Paper [here](https://ieeexplore.ieee.org/document/8581424)
+-----------
+Research Paper [here](https://ieeexplore.ieee.org/document/8581424) \
 Medium Blog [here](https://towardsdatascience.com/explainable-ai-xai-design-for-unsupervised-deep-anomaly-detector-6bd1275ed3fc)

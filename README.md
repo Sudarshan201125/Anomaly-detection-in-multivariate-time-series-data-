@@ -8,6 +8,7 @@ CSVtoAVRO.py - To convert CSV file to AVRO file (but schema here is defined to c
 readAVRO.py - To read AVRO file as pandas dataframe 
 
 ### INSTALLATION 
+-------------
 pip install msda\
 pip install pandas\
 pip install numpy\

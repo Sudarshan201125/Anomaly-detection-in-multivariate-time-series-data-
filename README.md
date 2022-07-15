@@ -6,8 +6,7 @@ MEM_model.py - CNN model for Memory metrics (need to change input csv file locat
 editcsv.py - To delete rows of CPU with condition and select first n rows \
 CSVtoAVRO.py - To convert CSV file to AVRO file (but schema here is defined to convert CPU file) \
 \
-\
-### INSTALLATION \
+### INSTALLATION 
 pip install msda\ 
 pip install pandas\
 pip install numpy\
@@ -20,5 +19,5 @@ pip install sklearn\
 pip install scipy\
 pip install shap\
 pip install keras\
-pip install ipywidgets\
+pip install ipywidgets
 
